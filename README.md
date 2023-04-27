@@ -1,4 +1,4 @@
-# 3D_NFT_Generator
+# 3D-NFT-Generator
 
 ![](https://github.com/qkoci/3D_NFT_Generator/blob/main/usage.jpg)
 
