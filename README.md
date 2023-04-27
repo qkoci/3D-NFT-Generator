@@ -1,8 +1,6 @@
 # 3D_NFT_Generator
 
-![](https://github.com/qkoci/3D_NFT_Generator/blob/main/3dnft.jpg)
-
-![](pics/ui.jpg)
+![](https://github.com/qkoci/3D_NFT_Generator/blob/main/usage.jpg)
 
 ## Usage
 - step1: set generate project folder\
