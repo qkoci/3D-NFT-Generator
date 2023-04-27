@@ -1,6 +1,6 @@
 # 3D_NFT_Generator
 
-![](pics/4x4.jpg)
+![](https://github.com/qkoci/3D_NFT_Generator/blob/main/3dnft.jpg)
 
 ![](pics/ui.jpg)
 
